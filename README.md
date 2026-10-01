@@ -169,7 +169,7 @@ DHTesp
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a085,100:2ecc71&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-**Desenvolvido por Carlos Daniel**
+**Desenvolvido por Alana Corso**
 
 ### link o projeto: 
 https://wokwi.com/projects/476135821618994177
